@@ -1,7 +1,7 @@
 # Dymola_Truck
 This provides the Modelica and Simulink supporting files for my MS thesis on model identification.
 
-The project involved modelling the longitudinal dynamics (engine, transmission,drive train) of a Class 8 truck (2013 International Prostar+) with semi trailer (unloaded). While the Dymola model does have the ability to steer, the lateral dynamics have not been tuned as well as the powertrain components.
+The project involved modelling the longitudinal dynamics (engine, transmission,drive train) of a Class 8 truck (2013 International Prostar+) with an unloaded semi trailer, using SAE J1939 signals. While the Dymola model does have the ability to steer, the lateral dynamics have not been tuned as well as the powertrain components.
 
 For details/citation, please see : https://oaktrust.library.tamu.edu/handle/1969.1/174613
 (PDF will be available for free to public after December 2019)
