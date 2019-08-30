@@ -8,7 +8,7 @@ For details/citation, please see : https://oaktrust.library.tamu.edu/handle/1969
 
 The Modelica file (.mo) was created with Dymola 2017, with Vehicle Dynamics Library v2.4 and Modelon Library v2.5. Newer versions of these should work but some links maybe be broken and will need to be fixed manually. Older versions will almost definitely not work.
 
-Simulink model can be opened with R2016b or newer. (You will need to configure the Dymola-MATLAB interface first. See Dymola User Manual Vol 2). Run the .m script file first, which will load the required data and create input variables for simulation.
+Simulink model can be opened with R2016b or newer. (You will need to configure the Dymola-MATLAB interface first. See Dymola User Manual Vol 2). Run the .m script file, which will load the required data and create input variables for simulation.
 
 This repo only has the latest version of the files. If you are a member of Texas A&M University, you can see the full commit history on TAMU's enterprise Github :https://github.tamu.edu/AutonomyLab01/Dymola_Model_Identification.
 
