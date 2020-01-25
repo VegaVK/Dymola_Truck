@@ -4,7 +4,7 @@ This provides the Modelica and Simulink supporting files for my MS thesis on mod
 The project involved modelling the longitudinal dynamics (engine, transmission,drive train) of a Class 8 truck (2013 International Prostar+) with an unloaded semi trailer, using SAE J1939 signals. While the Dymola model does have the ability to steer, the lateral dynamics have not been tuned as well as the powertrain components.
 
 For details/citation, please see : https://oaktrust.library.tamu.edu/handle/1969.1/174613
-(PDF will be available for free to public after December 2019)
+(PDF available on my website http://bit.ly/2uu3L9U)
 
 The Modelica file (.mo) was created with Dymola 2017, with Vehicle Dynamics Library v2.4 and Modelon Library v2.5. Newer versions of these should work but some links maybe be broken and will need to be fixed manually. Older versions will almost definitely not work.
 
